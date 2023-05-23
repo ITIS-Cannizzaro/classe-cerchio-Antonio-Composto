@@ -34,8 +34,7 @@ public class cerchio {
         System.out.println("il diametro Ã¨ " + diametro );
         System.out.println("il perimetro Ã¨ " + perimetro );
         System.out.println("l'area Ã¨ " + area );
-       
-        
+   //b
 
     }
 
